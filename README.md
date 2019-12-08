@@ -1,2 +1,2 @@
 # landingpage
-A Landing Page for Antalya City.
+Antalya City themed landing page.
